@@ -23,7 +23,7 @@
 ### <p> 📥 Connect with me: </p>
 
 <div>
-    <a href = "https://www.linkedin.com/in/javiergarciaignacio/">
+    <a href = "https://www.linkedin.com/in/javiergarciaignacio/" style="padding-left: 10px;">
         <img align = "left" src= "Images\linkedin-icon.png" alt = "Javier García Linkedin" width = "30px"/>
     </a>
     <a href = "https://github.com/JvrGrc">
