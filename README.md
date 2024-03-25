@@ -2,7 +2,7 @@
 
  I'm Javier García and i have studied videogame development and cross-platform aplication development,
 
-<img src="Assets/profilePhoto.jpg" alt="My Face" width="157" height="203" />
+<img src="Assets/profilePhoto.jpg" alt="My Face" width="157" height="203" style="display: block; margin: 0 auto;"/>
 <!--
 **JvrGrc/JvrGrc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
