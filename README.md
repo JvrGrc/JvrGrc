@@ -2,6 +2,7 @@
 
  I'm Javier García and i have studied videogame development and cross-platform aplication development,
 
+![My Face](Assests/profilePhoto.jpg)
 <!--
 **JvrGrc/JvrGrc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
