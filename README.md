@@ -24,10 +24,10 @@
 
 <div>
     <a href = "https://www.linkedin.com/in/javiergarciaignacio/">
-        <img src= "Images\linkedin-icon.png" alt = "Javier García Linkedin" width = "30px"/>
+        <img align = "left" src= "Images\linkedin-icon.png" alt = "Javier García Linkedin" width = "30px"/>
     </a>
     <a href = "https://github.com/JvrGrc">
-        <img src= "Images\github-icon.png" alt = "Javier García Github" width = "30px"/>
+        <img align = "left" src= "Images\github-icon.png" alt = "Javier García Github" width = "30px"/>
     </a>
 </a>
 </div>
