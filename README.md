@@ -23,10 +23,10 @@
 ### <p> 📥 Connect with me: </p>
 
 <div>
-    <a href = "https://www.linkedin.com/in/javiergarciaignacio/" style="padding-right: 10px;">
+    <a href = "https://www.linkedin.com/in/javiergarciaignacio/">
         <img src= "Images\linkedin-icon.png" alt = "Javier García Linkedin" width = "30px"/>
     </a>
-    <a href = "https://github.com/JvrGrc" style="padding-left: 10px; padding-right: 10px">
+    <a href = "https://github.com/JvrGrc">
         <img src= "Images\github-icon.png" alt = "Javier García Github" width = "30px"/>
     </a>
 </a>
