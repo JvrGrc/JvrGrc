@@ -20,14 +20,42 @@
     </p>
 </div>
 
-### <p> 📥 Connect with me: </p>
+### 📥 Connect with me:
 
 <div>
-    <a href = "https://www.linkedin.com/in/javiergarciaignacio/" style="padding-left: 10px;">
+    <a href = "https://www.linkedin.com/in/javiergarciaignacio/">
         <img align = "left" src= "Images\linkedin-icon.png" alt = "Javier García Linkedin" width = "30px"/>
     </a>
     <a href = "https://github.com/JvrGrc">
         <img align = "left" src= "Images\github-icon.png" alt = "Javier García Github" width = "30px"/>
     </a>
-</a>
 </div>
+<br>
+<br>
+
+## 💻 Currently working on
+<p>
+    · Developing my own video game as a final course project
+    <br>
+    · Carrying out my work practices
+    <br>
+    · Improving my art skills
+</p>
+
+## 📖 Currently learning
+<p>
+    · Blender
+    <br>
+    · Unreal Engine
+    <br>
+    · JavaScript
+</p>
+
+## 🚀 Technical Skills
+
+<br>
+<br>
+
+## 📈 GitHub Stats 
+
+[![Javier's github stats](https://github-readme-stats.vercel.app/api?username=JvrGrc)](https://github.com/JvrGrc)
