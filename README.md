@@ -1,21 +1,50 @@
- Hi there 👋
+<script>
+    function copiarCorreo(correo) {
+    // Crear un elemento de entrada de texto para copiar el correo
+    var input = document.createElement('input');
+    input.setAttribute('value', correo);
+    document.body.appendChild(input);
+    input.select();
+    // Copiar el texto seleccionado
+    document.execCommand('copy');
+    // Remover el elemento de entrada de texto
+    document.body.removeChild(input);
+    // Mostrar un mensaje de "Correo Copiado"
+    alert('Correo copiado');
+}
+</script>
+<h1 align="center">
+    <b>Hi , I'm Javier García </b>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
 
- I'm Javier García and i have studied videogame development and cross-platform aplication development,
+<h2 style="text-align:center;">
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGtjMm5teGpqdzBvaTFiOWhyeGUxYnJvdzc3eTdpOWswamQ5OXg4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="300"/>
+    <div>
+        <b>
+            I'm a video game and cross-platform application developer👨🏻‍💻
+        </b>
+    </div>
+</h2>
 
-<p align = "center">
-    <img src="Assets/profilePhoto.jpg" alt="My Face" width="157" height="203"/>
-</p>
-<!--
-**JvrGrc/JvrGrc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+    <p>
+    I enjoy developing applications that may be necessary for people in their daily lives and are often difficult to find or lack essential features.
+    <br>
+    <b>As for game development,</b> I am currently learning and my dream is to one day create my own video game and leave my mark in the world of gaming.
+    </p>
+</div>
 
-Here are some ideas to get you started:
+### <p> 📥 Connect with me: </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+    <a href = "https://www.linkedin.com/in/javiergarciaignacio/" style="padding-right: 10px;">
+        <img src= "Images\linkedin-icon.png" alt = "Javier García Linkedin" width = "30px"/>
+    </a>
+    <a href = "https://github.com/JvrGrc" style="padding-left: 10px; padding-right: 10px">
+        <img src= "Images\github-icon.png" alt = "Javier García Github" width = "30px"/>
+    </a>
+    <a href="#" onclick="copiarCorreo('correo@ejemplo.com')">
+    <img src="Images/linkedin-icon.png" alt="Javier García Linkedin" width="30px"/>
+</a>
+</div>
