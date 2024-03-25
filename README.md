@@ -1,18 +1,3 @@
-<script>
-    function copiarCorreo(correo) {
-    // Crear un elemento de entrada de texto para copiar el correo
-    var input = document.createElement('input');
-    input.setAttribute('value', correo);
-    document.body.appendChild(input);
-    input.select();
-    // Copiar el texto seleccionado
-    document.execCommand('copy');
-    // Remover el elemento de entrada de texto
-    document.body.removeChild(input);
-    // Mostrar un mensaje de "Correo Copiado"
-    alert('Correo copiado');
-}
-</script>
 <h1 align="center">
     <b>Hi , I'm Javier García </b>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
@@ -44,7 +29,5 @@
     <a href = "https://github.com/JvrGrc" style="padding-left: 10px; padding-right: 10px">
         <img src= "Images\github-icon.png" alt = "Javier García Github" width = "30px"/>
     </a>
-    <a href="#" onclick="copiarCorreo('correo@ejemplo.com')">
-    <img src="Images/linkedin-icon.png" alt="Javier García Linkedin" width="30px"/>
 </a>
 </div>
