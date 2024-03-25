@@ -3,8 +3,8 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
-<h2 style="text-align:center;">
-    <img align="center" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGtjMm5teGpqdzBvaTFiOWhyeGUxYnJvdzc3eTdpOWswamQ5OXg4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="300"/>
+<h2 align="center" style="text-align:center;">
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGtjMm5teGpqdzBvaTFiOWhyeGUxYnJvdzc3eTdpOWswamQ5OXg4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="300"/>
     <div>
         <b>
             I'm a video game and cross-platform application developer👨🏻‍💻
