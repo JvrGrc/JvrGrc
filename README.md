@@ -7,16 +7,16 @@
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGtjMm5teGpqdzBvaTFiOWhyeGUxYnJvdzc3eTdpOWswamQ5OXg4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="300"/>
     <div>
         <b>
-            I'm a video game and cross-platform application developer👨🏻‍💻
+            I'm a software developer👨🏻‍💻
         </b>
     </div>
 </h2>
 
 <div>
     <p>
-    I enjoy developing applications that may be necessary for people in their daily lives and are often difficult to find or lack essential features.
-    <br>
-    <b>As for game development,</b> I am currently learning and my dream is to one day create my own video game and leave my mark in the world of gaming.
+	    I am a passionate software developer and video game developer with experience in multiple programming languages and game engines. 
+	    <br>
+	    I love creating robust applications and immersive games that offer unique experiences to users.
     </p>
 </div>
 
@@ -44,7 +44,7 @@
 
 ## 📖 Currently learning
 <p>
-    · Blender
+    · Spring Boot
     <br>
     · Unreal Engine
     <br>
